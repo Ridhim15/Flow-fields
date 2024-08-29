@@ -4,7 +4,7 @@ This project is a creative coding endeavor that visualizes flow fields using the
 algorithm and vector mathematics on a 2D plane. It simulates particles moving in a fluid-like
 structure, creating mesmerizing patterns that evolve over time.
 
-![Example Generation](/WhatsApp%20Image%202024-04-16%20at%2011.04.24.jpeg "Flow Field")
+![Example Generation](/image.png "Flow Field")
 
 ## Features
 
