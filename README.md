@@ -56,12 +56,6 @@ project, please refer to the following resource:
 This article provides a deep dive into the concepts and applications of Perlin noise in creating
 complex, natural-looking patterns and simulations.
 
-### Experimenting with Gravitational Points
-
-1. Gravitational points are defined in the `setup` function. To add more points or change their
-   positions, modify the array that stores these points.
-2. To alter the gravitational force, adjust the force calculation in the method that applies
-   gravitational forces to particles.
 
 ## Setup
 
